@@ -21,6 +21,10 @@ Yo! These are my first dotfiles
 
 * neofetch - For system info
 
+* mpd - music playing server
+
+* ncmpcpp - visual for mpd
+
 * .. more i forgot :/
 
 ## Pywal instllation, notes to self
