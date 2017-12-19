@@ -19,6 +19,8 @@ Yo! These are my first dotfiles
 
 * rofi - for dmenu replacement
 
+* neofetch - For system info
+
 * .. more i forgot :/
 
 ## Pywal instllation, notes to self
