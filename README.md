@@ -21,5 +21,9 @@ rofi - for dmenu replacement
 
 .. more i forgot :/
 
+## Pywal instllation, notes to self
+
+https://pastebin.com/vLAwuvib
+
 
 
